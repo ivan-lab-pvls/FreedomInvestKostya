@@ -1,4 +1,4 @@
-package com.wizaquo.finance.utils
+package com.finaoqi.freedly.utility
 
 import io.flutter.embedding.android.FlutterActivity
 

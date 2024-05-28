@@ -47,7 +47,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                 builder: (BuildContext context) =>
                                     const Readaed(
                                       link:
-                                          'https://docs.google.com/document/d/1DeL5EF3-eXYlFNN29_k_d28w2i-q6py0F_-cy032X8o/edit?usp=sharing',
+                                          'https://docs.google.com/document/d/1Lo-kNK_mssoriiTATQIDOATzKoqWz6q4X1mIfe9RRZc/edit?usp=sharing',
                                     )),
                           );
                         },
@@ -85,7 +85,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                 builder: (BuildContext context) =>
                                     const Readaed(
                                       link:
-                                          'https://docs.google.com/document/d/18bam9le4xxe6bZ4Vq_URMC8ynA2rbySQtCFy05zSSgE/edit?usp=sharing',
+                                          'https://docs.google.com/document/d/1NygTzkQC1nC4ysN5flzVpIscq47TeMRo9al1V9cdEGE/edit?usp=sharing',
                                     )),
                           );
                         },
@@ -123,7 +123,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                 builder: (BuildContext context) =>
                                     const Readaed(
                                       link:
-                                          'https://forms.gle/XPQSu8YiUrDMtvvd9',
+                                          'https://forms.gle/TDNQxyCA17DeZtYj8',
                                     )),
                           );
                         },
