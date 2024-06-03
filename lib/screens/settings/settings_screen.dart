@@ -44,10 +44,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         onTap: () {
                           Navigator.of(context).push(
                             MaterialPageRoute<void>(
-                                builder: (BuildContext context) =>
-                                    const Readaed(
+                                builder: (BuildContext context) => const DSadas(
                                       link:
-                                          'https://docs.google.com/document/d/1XGA14NQccRb4zmeC9cOS1jIisrVZZg148l7xxQKVCPg/edit?usp=sharing',
+                                          'https://docs.google.com/document/d/1klrTe9xAlPiyq2KG4Qogtpoo-At0aBkWCRKPmMux3GU/edit?usp=sharing',
                                     )),
                           );
                         },
@@ -82,10 +81,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         onTap: () {
                           Navigator.of(context).push(
                             MaterialPageRoute<void>(
-                                builder: (BuildContext context) =>
-                                    const Readaed(
+                                builder: (BuildContext context) => const DSadas(
                                       link:
-                                          'https://docs.google.com/document/d/1lpEwX7CaEyjYUMyqzggT65PRGQtf-sYlmZePdLtAG9c/edit?usp=sharing',
+                                          'https://docs.google.com/document/d/1PT9BwSAWJau9v5fkxI6nvZeJXB83o_j1nIPCfWX3lg0/edit?usp=sharing',
                                     )),
                           );
                         },
@@ -120,10 +118,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         onTap: () {
                           Navigator.of(context).push(
                             MaterialPageRoute<void>(
-                                builder: (BuildContext context) =>
-                                    const Readaed(
+                                builder: (BuildContext context) => const DSadas(
                                       link:
-                                          'https://forms.gle/7ScW5ukZ9c2TqfEG8',
+                                          'https://forms.gle/7k4mPWyLGQzZBULD8',
                                     )),
                           );
                         },
@@ -162,10 +159,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
   }
 }
 
-class Readaed extends StatelessWidget {
+class DSadas extends StatelessWidget {
   final String link;
 
-  const Readaed({Key? key, required this.link}) : super(key: key);
+  const DSadas({Key? key, required this.link}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
